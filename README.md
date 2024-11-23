@@ -1,3 +1,3 @@
 # demo
-this is my first  repoo
-author-adit
+This is my first repository.
+Author-Adit Rawat
